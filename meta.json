@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/jyapayne/nimterop",
   "refs": [
-    "fatal: unable to access 'https://github.com/jyapayne/nimterop/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/jyapayne/nimterop/': SSL connection timeout",
     ""
   ],
   "heads": []
